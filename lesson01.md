@@ -1,0 +1,1 @@
+firstly, i'll repeat the git commands I have learned before.
